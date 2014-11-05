@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A6C77504-076B-4089-BC03-7B3BFB67AEFF}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HelloWorld</RootNamespace>
+    <AssemblyName>HelloWorld</AssemblyName>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>
+    </SilverlightVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>HelloWorld_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>HelloWorld.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>full</DebugType>
+    <PlatformTarget>
+    </PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>
+    </PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>full</DebugType>
+    <PlatformTarget>
+    </PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>
+    </PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Coding4Fun.Phone.Controls">
+      <HintPath>E:\Windows Phone\提交App\Limit\1.0.0.5\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Toolkit, Version=8.0.1.0, Culture=neutral, PublicKeyToken=b772ad94eb9ca604, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\新Dll\WP8\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Interactivity, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AssociationUriMapper.cs" />
+    <Compile Include="ColorData.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="Lython.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageBye.xaml.cs">
+      <DependentUpon>PageBye.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageError.xaml.cs">
+      <DependentUpon>PageError.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageRestart.xaml.cs">
+      <DependentUpon>PageRestart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PivotPageAbout.xaml.cs">
+      <DependentUpon>PivotPageAbout.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SettingPage.xaml.cs">
+      <DependentUpon>SettingPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageBye.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageError.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageRestart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PivotPageAbout.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SettingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\ApplicationIcon.png" />
+    <Content Include="assets\bing.jpg" />
+    <Content Include="assets\tiles\FlipCycleTileLarge.png" />
+    <Content Include="assets\tiles\FlipCycleTileMedium.png" />
+    <Content Include="assets\tiles\FlipCycleTileSmall.png" />
+    <Resource Include="img\flashlight.png" />
+    <Resource Include="img\Bluetooth.png" />
+    <Resource Include="img\screenrotation.png" />
+    <Resource Include="img\AirplaneMode.png" />
+    <Content Include="img\appbar.about.png" />
+    <Content Include="img\appbar.settings.png" />
+    <Resource Include="img\Cellular.png" />
+    <Resource Include="img\WiFi.png" />
+    <Resource Include="img\stopwatch.png" />
+    <Resource Include="img\wallet.png" />
+    <Resource Include="img\restart.png" />
+    <Content Include="tile\AirplaneMode.png" />
+    <Content Include="tile\battery.png" />
+    <Content Include="tile\Bluetooth_1.png" />
+    <Content Include="tile\Bluetooth_11.png" />
+    <Content Include="tile\Bluetooth_12.png" />
+    <Content Include="tile\Bluetooth_13.png" />
+    <Content Include="tile\Bluetooth_14.png" />
+    <Content Include="tile\Bluetooth_15.png" />
+    <Content Include="tile\Bluetooth_16.png" />
+    <Content Include="tile\Bluetooth_17.png" />
+    <Content Include="tile\Bluetooth_18.png" />
+    <Content Include="tile\Bluetooth_19.png" />
+    <Content Include="tile\Bluetooth_2.png" />
+    <Content Include="tile\Bluetooth_20.png" />
+    <Content Include="tile\Bluetooth_21.png" />
+    <Content Include="tile\Bluetooth_3.png" />
+    <Content Include="tile\Bluetooth_4.png" />
+    <Content Include="tile\Bluetooth_5.png" />
+    <Content Include="tile\Bluetooth_6.png" />
+    <Content Include="tile\Bluetooth_7.png" />
+    <Content Include="tile\Bluetooth_8.png" />
+    <Content Include="tile\Bluetooth_9.png" />
+    <Content Include="tile\data_0.png" />
+    <Content Include="tile\data_1.png" />
+    <Content Include="tile\data_10.png" />
+    <Content Include="tile\data_11.png" />
+    <Content Include="tile\data_12.png" />
+    <Content Include="tile\data_13.png" />
+    <Content Include="tile\data_14.png" />
+    <Content Include="tile\data_15.png" />
+    <Content Include="tile\data_16.png" />
+    <Content Include="tile\data_17.png" />
+    <Content Include="tile\data_18.png" />
+    <Content Include="tile\data_19.png" />
+    <Content Include="tile\data_2.png" />
+    <Content Include="tile\data_20.png" />
+    <Content Include="tile\data_21.png" />
+    <Content Include="tile\data_3.png" />
+    <Content Include="tile\data_4.png" />
+    <Content Include="tile\data_5.png" />
+    <Content Include="tile\data_6.png" />
+    <Content Include="tile\data_7.png" />
+    <Content Include="tile\data_8.png" />
+    <Content Include="tile\data_9.png" />
+    <Content Include="tile\flashlight.png" />
+    <Content Include="tile\restart.png" />
+    <Content Include="tile\stopwatch.png" />
+    <Content Include="tile\location_1.png" />
+    <Content Include="tile\location_11.png" />
+    <Content Include="tile\location_12.png" />
+    <Content Include="tile\location_13.png" />
+    <Content Include="tile\location_14.png" />
+    <Content Include="tile\location_15.png" />
+    <Content Include="tile\location_16.png" />
+    <Content Include="tile\location_17.png" />
+    <Content Include="tile\location_18.png" />
+    <Content Include="tile\location_19.png" />
+    <Content Include="tile\location_2.png" />
+    <Content Include="tile\location_20.png" />
+    <Content Include="tile\location_21.png" />
+    <Content Include="tile\location_3.png" />
+    <Content Include="tile\location_4.png" />
+    <Content Include="tile\location_5.png" />
+    <Content Include="tile\location_6.png" />
+    <Content Include="tile\location_7.png" />
+    <Content Include="tile\location_8.png" />
+    <Content Include="tile\location_9.png" />
+    <Content Include="tile\screenrotation.png" />
+    <Content Include="tile\wallet.png" />
+    <Content Include="tile\WiFi_1.png" />
+    <Content Include="tile\WiFi_10.png" />
+    <Content Include="tile\WiFi_11.png" />
+    <Content Include="tile\WiFi_12.png" />
+    <Content Include="tile\WiFi_13.png" />
+    <Content Include="tile\WiFi_14.png" />
+    <Content Include="tile\WiFi_15.png" />
+    <Content Include="tile\WiFi_16.png" />
+    <Content Include="tile\WiFi_17.png" />
+    <Content Include="tile\WiFi_18.png" />
+    <Content Include="tile\WiFi_19.png" />
+    <Content Include="tile\WiFi_2.png" />
+    <Content Include="tile\WiFi_20.png" />
+    <Content Include="tile\WiFi_21.png" />
+    <Content Include="tile\WiFi_3.png" />
+    <Content Include="tile\WiFi_4.png" />
+    <Content Include="tile\WiFi_5.png" />
+    <Content Include="tile\WiFi_6.png" />
+    <Content Include="tile\WiFi_7.png" />
+    <Content Include="tile\WiFi_8.png" />
+    <Content Include="tile\WiFi_9.png" />
+    <Resource Include="img\battery.png" />
+    <Resource Include="img\ram.png" />
+    <Content Include="img\appbar.data.png" />
+    <Resource Include="img\microsoft.png" />
+    <Resource Include="img\stop.png" />
+    <Content Include="img\battery_out.png" />
+    <Content Include="img\appbar.skin.png" />
+    <Content Include="res\Stop.mp3" />
+    <Content Include="tile\Bluetooth_0.png" />
+    <Content Include="tile\Bluetooth_10.png" />
+    <Content Include="tile\Cellular_0.png" />
+    <Content Include="tile\Cellular_1.png" />
+    <Content Include="tile\Cellular_10.png" />
+    <Content Include="tile\Cellular_11.png" />
+    <Content Include="tile\Cellular_12.png" />
+    <Content Include="tile\Cellular_13.png" />
+    <Content Include="tile\Cellular_14.png" />
+    <Content Include="tile\Cellular_15.png" />
+    <Content Include="tile\Cellular_16.png" />
+    <Content Include="tile\Cellular_17.png" />
+    <Content Include="tile\Cellular_18.png" />
+    <Content Include="tile\Cellular_19.png" />
+    <Content Include="tile\Cellular_2.png" />
+    <Content Include="tile\Cellular_20.png" />
+    <Content Include="tile\Cellular_21.png" />
+    <Content Include="tile\Cellular_3.png" />
+    <Content Include="tile\Cellular_4.png" />
+    <Content Include="tile\Cellular_5.png" />
+    <Content Include="tile\Cellular_6.png" />
+    <Content Include="tile\Cellular_7.png" />
+    <Content Include="tile\Cellular_8.png" />
+    <Content Include="tile\Cellular_9.png" />
+    <Content Include="tile\link_win8.png" />
+    <Content Include="tile\location_0.png" />
+    <Content Include="tile\location_10.png" />
+    <Content Include="tile\microsoft.png" />
+    <Content Include="tile\stop.png" />
+    <Content Include="tile\WiFi_0.png" />
+    <Resource Include="img\search.png" />
+    <Resource Include="img\location.png" />
+    <Resource Include="img\link_win8.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

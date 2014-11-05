@@ -1,0 +1,189 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="HelloWorld.PivotPageAbout"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:Code4Fun="clr-namespace:Coding4Fun.Phone.Controls;assembly=Coding4Fun.Phone.Controls"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.Opacity="0"
+    shell:SystemTray.IsVisible="True"
+    BackKeyPress="PhoneApplicationPage_BackKeyPress">
+
+    <phone:PhoneApplicationPage.Projection>
+        <PlaneProjection x:Name="translate"
+                         CenterOfRotationX="0.5" CenterOfRotationY="0.5"/>
+    </phone:PhoneApplicationPage.Projection>
+
+    <phone:PhoneApplicationPage.Resources>
+        <Storyboard x:Name="storyboard_1">
+            <DoubleAnimation Storyboard.TargetName="translate"
+                             Storyboard.TargetProperty="RotationX"
+                             From="-90" To="0" Duration="0:0:.5" />
+        </Storyboard>
+        <Storyboard x:Name="storyboard_2">
+            <DoubleAnimation Storyboard.TargetName="translate"
+                             Storyboard.TargetProperty="RotationX"
+                             From="0" To="90" Duration="0:0:0.2" />
+        </Storyboard>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" Margin="0,20,20,0">
+        <!--枢轴控件-->
+        <phone:Pivot Name="pivot" Title="{StaticResource appTitle}">
+            <!--枢轴项一-->
+            <phone:PivotItem Header="关于">
+                <ScrollViewer>
+                    <StackPanel Margin="15,5,20,0">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="180"/>
+                                <RowDefinition Height="15"/>
+                                <RowDefinition Height="180"/>
+                                <RowDefinition Height="15"/>
+                                <RowDefinition Height="180"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="180"/>
+                                <ColumnDefinition Width="15"/>
+                                <ColumnDefinition Width="180"/>
+                            </Grid.ColumnDefinitions>
+                            <Code4Fun:Tile Name="version" Title="{StaticResource appVersion}" Grid.Row="0" Grid.Column="0"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="version_Tap" >
+                                <Grid Background="Orange">
+                                    <TextBlock Text="版本" FontSize="65" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Grid>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile x:Name="email" Title="Email" Grid.Row="0" Grid.Column="2"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="email_Tap">
+                                <Grid Background="CornflowerBlue">
+                                    <TextBlock Text="反馈" FontSize="65" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Grid>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile x:Name="star" Title="★★★★★" Grid.Row="2" Grid.Column="0"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="star_Tap">
+                                <Grid Background="Plum">
+                                    <TextBlock Text="评分" FontSize="65" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Grid>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile x:Name="update" Title="获取作者更多软件" Grid.Row="2" Grid.Column="2"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="update_Tap">
+                                <Grid Background="YellowGreen">
+                                    <TextBlock Text="更多" FontSize="65" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Grid>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile Name="shareapp" Title="短信分享此应用" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="shareapp_Tap">
+                                <Grid>
+                                    <TextBlock Text="分享" FontSize="65" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Grid>
+                            </Code4Fun:Tile>
+                        </Grid>
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PivotItem>
+
+            <phone:PivotItem Header="FAQ">
+                <ScrollViewer>
+                    <StackPanel Margin="15,0,0,0">
+                        <TextBlock Text="1.为什么电量和屏幕旋转不能用？" TextWrapping="Wrap"
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" 
+                                   Foreground="{StaticResource PhoneAccentBrush}" />
+                        <TextBlock Text="请把你的手机系统更新到Update 3(GDR 3)以上版本。"
+                                   TextWrapping="Wrap" >
+                        </TextBlock>
+                        <TextBlock Text="2.为什么瓷贴开关状态不100%准确？" TextWrapping="Wrap"
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" Foreground="{StaticResource PhoneAccentBrush}" />
+                        <TextBlock TextWrapping="Wrap" 
+                                   Text="a.你必须从我的瓷贴进入更改状态才有效。
+                                   b.等状态设置完成后再点击返回键。">
+                        </TextBlock>
+                        <TextBlock Text="3.为什么飞行模式、屏幕旋转和节电模式没有开关状态？" TextWrapping="Wrap"
+                                   Foreground="{StaticResource PhoneAccentBrush}" 
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}"/>
+                        <TextBlock TextWrapping="Wrap" 
+                                   Text="微软没有提供相关的API。">
+                        </TextBlock>
+
+                        <TextBlock Text="4.我想语音启动它，但是启动的却是系统的设置？" 
+                                   TextWrapping="Wrap"
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" 
+                                   Foreground="{StaticResource PhoneAccentBrush}"/>
+                        <TextBlock TextWrapping="Wrap"
+                                   Text="请说：启动 设置平方或打开 设置2。">
+                        </TextBlock>
+                        <TextBlock Text="5.第三方App在哪儿下载？" TextWrapping="Wrap" 
+                                   Foreground="{StaticResource PhoneAccentBrush}"
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="点击下载："/>
+                            <HyperlinkButton Content="手电筒" 
+                                             Foreground="Gold" FontSize="{StaticResource PhoneFontSizeNormal}"
+                                             Tap="download_flashlight_Tap"/>
+                            <HyperlinkButton Content="秒表" 
+                                             Foreground="Gold" FontSize="{StaticResource PhoneFontSizeNormal}"
+                                             Tap="download_stopwatch_Tap"/>
+                        </StackPanel>
+                        <TextBlock Text="6.为什么删除了内存使用量瓷贴？" TextWrapping="Wrap"
+                                    Foreground="{StaticResource PhoneAccentBrush}"
+                                    FontSize="{StaticResource PhoneFontSizeMediumLarge}"/>
+                        <TextBlock Text="只是当前App的内存使用量，用处不大。为了增加重启功能，故将其删除。"
+                                   TextWrapping="Wrap" >
+                        </TextBlock>
+                        <TextBlock Text="7.我还有十万个为什么！" TextWrapping="Wrap"
+                                   Foreground="{StaticResource PhoneAccentBrush}"
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" />
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="请联系作者:" />
+                            <HyperlinkButton Content="lython@outlook.com。" Foreground="Gold" FontSize="{StaticResource PhoneFontSizeNormal}"
+                                             Tap="email_Tap" />
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PivotItem>
+            <phone:PivotItem Header="声明">
+                <StackPanel Margin="15,0,0,0">
+                    <TextBlock Text="你使用此App即代表同意以下条款，若不同意请删除此App。" TextWrapping="Wrap" 
+                               FontSize="{StaticResource PhoneFontSizeMediumLarge}" Margin="0,10,0,0" 
+                               Foreground="{StaticResource PhoneAccentBrush}"/>
+                    <TextBlock TextWrapping="Wrap" Margin="0,10,0,0"
+                               Text="1.此App是完全免费且无广告的，下载产生的流量费由运营商收取。" />
+                    <TextBlock TextWrapping="Wrap" Margin="0,10,0,0"
+                               Text="2.此App调用了第三方的App，因第三方App产生的捐赠与本人无关。" />
+                    <TextBlock TextWrapping="Wrap" Margin="0,10,0,0"
+                               Text="3.作者拥有一切解释权。" />
+                </StackPanel>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/Images/appbar_button1.png" Text="按钮 1"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/Images/appbar_button2.png" Text="按钮 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="菜单项 1"/>
+                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="菜单项 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+    
+</phone:PhoneApplicationPage>

@@ -1,0 +1,1437 @@
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Background.png
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\HelloWorld.xap
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\App.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\AboutPage.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\PivotPageAbout.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\HelloWorld\HelloWorld\obj\Release\SaveFileDialog.g.i.cs
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Background.png
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\HelloWorld.xap
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\App.g.i.cs
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\AboutPage.g.i.cs
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\PivotPageAbout.g.i.cs
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\SaveFileDialog.g.i.cs
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Administrator\Desktop\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Background.png
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\HelloWorld.xap
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\AboutPage.g.i.cs
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\Hello我的\HelloWorld\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\Background.png
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\HelloWorld.xap
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\AboutPage.g.i.cs
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\Background.png
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\Background.png
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\App.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\Background.png
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\PageTheme.g.cs
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.cs
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.0.1.3\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\Background.png
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\Background.png
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\App.g.cs
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\Jee\Desktop\设置lite\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置lite\HelloWorld\obj\Release\PageLoading.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\PageLoading.g.cs
+C:\Users\Jee\Desktop\设置lite\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+F:\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+F:\设置lite\HelloWorld\Bin\Release\Background.png
+F:\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+F:\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+F:\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+F:\设置lite\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+F:\设置lite\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+F:\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+F:\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+F:\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+F:\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+F:\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+F:\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+F:\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+F:\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\设置lite\HelloWorld\obj\Release\App.g.cs
+F:\设置lite\HelloWorld\obj\Release\MainPage.g.cs
+F:\设置lite\HelloWorld\obj\Release\PageError.g.cs
+F:\设置lite\HelloWorld\obj\Release\PageLoading.g.cs
+F:\设置lite\HelloWorld\obj\Release\PageTheme.g.cs
+F:\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.cs
+F:\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.cs
+F:\设置lite\HelloWorld\obj\Release\SettingPage.g.cs
+F:\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+F:\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+F:\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+F:\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\Background.png
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\PageLoading.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\PageTheme.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\SaveFileDialog.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.2.0.2\设置lite\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\Background.png
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\PageLoading.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置lite1.2.0.2\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Background.png
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\App.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PageLoading.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\Jee\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Background.png
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\App.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PageLoading.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\慕白\Desktop\设置_1.2.0.4\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\Background.png
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\PageLoading.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\PageTheme.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\SaveFileDialog.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.2.0.6\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.2.0.5\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.3.0.1\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.3.0.3\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.3.0.6\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.3.0.6\设置_1.3.0.6\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.3.0.7\设置_1.3.0.7\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\ApplicationIcon.png
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.0\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.0\设置_1.4.0.0\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.1\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.1\设置_1.4.0.1\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.2\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\设置_1.4.0.2\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\PageError.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.g.resources
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.dll
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\LIJIE\Desktop\设置_1.4.0.3\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.2\设置_1.4.0.2\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\XapCacheFile.xml
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld.pdb
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\AppManifest.xaml
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\App.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\MainPage.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\PageError.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\PivotPageAbout.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\SettingPage.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.g.resources
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\HelloWorld.pdb
+F:\Windows Phone\提交App\设置lite\1.4.0.3\设置_1.4.0.3\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.4\设置_1.4.0.4\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.5\设置_1.4.0.5\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.5\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.4.0.7\HelloWorld\obj\Release\PageRestart.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld.pdb
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\Bin\Release\AppManifest.xaml
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\App.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\MainPage.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\PageError.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\PageRestart.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\PivotPageAbout.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\SettingPage.g.cs
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.g.resources
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.dll
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.pdb
+F:\Windows Phone\提交App\设置lite\1.4.0.7\设置_1.5.0.0\HelloWorld\obj\Release\XapCacheFile.xml
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld.dll
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld.pdb
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\AppManifest.xaml
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\App.g.cs
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\MainPage.g.cs
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\PageError.g.cs
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\PageRestart.g.cs
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\PivotPageAbout.g.cs
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\SettingPage.g.cs
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.g.resources
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.dll
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.pdb
+F:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\HelloWorld_Release_AnyCPU.xap
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\App.g.cs
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\PageBye.g.cs
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\PageError.g.cs
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\PageRestart.g.cs
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.g.resources
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.dll
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\HelloWorld.pdb
+E:\Windows Phone\提交App\设置lite\1.5.0.0\设置_1.5.0.0\HelloWorld\obj\Release\XapCacheFile.xml

@@ -1,0 +1,314 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="HelloWorld.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" 
+    xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions" 
+    xmlns:Code4Fun="clr-namespace:Coding4Fun.Phone.Controls;assembly=Coding4Fun.Phone.Controls"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" 
+    shell:SystemTray.Opacity="0" >
+    
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid x:Name="ContentPanel" Grid.Row="1">
+            <phone:Panorama HorizontalAlignment="Stretch" x:Name="myPage" Loaded="myPage_Loaded">
+                <phone:Panorama.Background>
+                    <ImageBrush ImageSource="/HelloWorld;component/assets/bing.jpg" />
+                </phone:Panorama.Background>
+                <!--Panorama 项目一-->
+                <phone:PanoramaItem>
+                    <ScrollViewer Margin="0, 0,-20,0">
+                        <Grid x:Name="Layout_1" Margin="10, 15, 0, 0" Opacity="0.8" Background="Transparent">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="173"/>
+                                <RowDefinition Height="10"/>
+                                <RowDefinition Height="173"/>
+                                <RowDefinition Height="10"/>
+                                <RowDefinition Height="173"/>
+                                <RowDefinition Height="10"/>
+                                <RowDefinition Height="173"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="173"/>
+                                <ColumnDefinition Width="10"/>
+                                <ColumnDefinition Width="173"/>
+                                <ColumnDefinition Width="70"/>
+                            </Grid.ColumnDefinitions>
+                            <Code4Fun:Tile Name="tile_airplane" Title="飞行模式" Grid.Row="0" Grid.Column="0" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                <Image Source="/HelloWorld;component/img/AirplaneMode.png" Stretch="Uniform"></Image>
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu Name="ContextMenu_airplane" IsZoomEnabled="True">
+                                        <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_airplane" Click="ContextMenu_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile Name="tile_bluetooth" Title="蓝牙"  Grid.Row="0" Grid.Column="2" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                <Image Source="/HelloWorld;component/img/Bluetooth.png" Stretch="Uniform"></Image>
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu Name="ContextMenu_bluetooth" IsZoomEnabled="True">
+                                        <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_bluetooth" Click="ContextMenu_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile Name="tile_location" Title="定位" Grid.Row="2" Grid.Column="0" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                <Image Source="/HelloWorld;component/img/location.png" Stretch="None"></Image>
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu Name="ContextMenu_location" IsZoomEnabled="True">
+                                        <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_location" Click="ContextMenu_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile Name="tile_screenrotation" Title="屏幕旋转"  Grid.Row="2" Grid.Column="2"
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                <Image Source="/HelloWorld;component/img/screenrotation.png" Stretch="Uniform"></Image>
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu Name="ContextMenu_screenrotation" IsZoomEnabled="True">
+                                        <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_screenrotation" Click="ContextMenu_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile Name="tile_battery" Title="电量" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap"  Hold="tile_Hold">
+                                <Grid>
+                                    <Image Name="image_battery" Source="/HelloWorld;component/img/battery.png" Stretch="Uniform"></Image>
+                                    <Code4Fun:TileNotification x:Name="notice_battery" Foreground="White" Background="Black" Content="100%"/>
+                                </Grid>
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu Name="ContextMenu_battery" IsZoomEnabled="True">
+                                        <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_battery" Click="ContextMenu_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile Name="tile_cellular" Title="手机网络" Grid.Row="6" Grid.Column="0" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold" Grid.RowSpan="2">
+                                <Image Name="img_cellular" Source="/HelloWorld;component/img/Cellular.png" Stretch="Uniform"></Image>
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu Name="ContextMenu_cellular" IsZoomEnabled="True">
+                                        <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_cellular" Click="ContextMenu_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Code4Fun:Tile>
+                            <Code4Fun:Tile Name="tile_wifi" Title="Wi-Fi" Grid.Row="6" Grid.Column="2" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                <Image Source="/HelloWorld;component/img/WiFi.png" Stretch="Uniform"></Image>
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu Name="ContextMenu_wifi" IsZoomEnabled="True">
+                                        <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_wifi" Click="ContextMenu_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Code4Fun:Tile>
+                            <StackPanel Orientation="Vertical" Grid.Row="0" Grid.Column="3" Grid.RowSpan="4" Height="366" 
+                                        VerticalAlignment="Bottom">
+                                <Code4Fun:RoundButton Name="tile_data" ImageSource="/img/appbar.data.png" 
+                                                      Foreground="White" BorderBrush="White" 
+                                                      Background="{StaticResource PhoneAccentBrush}"
+                                                      Hold="tile_data_Hold"
+                                                       >
+                                    <Code4Fun:RoundButton.RenderTransform>
+                                        <ScaleTransform ScaleX="1.0" ScaleY="1.0" />
+                                    </Code4Fun:RoundButton.RenderTransform>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_data" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_data" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:RoundButton>
+                                <Code4Fun:RoundButton Name="ButtonSkin" ImageSource="img/appbar.skin.png"
+                                                      Background="{StaticResource PhoneAccentBrush}"
+                                                      Foreground="White" BorderBrush="White"
+                                                      Tap="ButtonSkin_Tap">
+                                    <Code4Fun:RoundButton.RenderTransform>
+                                        <ScaleTransform ScaleX="1.0" ScaleY="1.0" />
+                                    </Code4Fun:RoundButton.RenderTransform>
+                                </Code4Fun:RoundButton>
+                                <Code4Fun:RoundButton Name="ButtonSettings" Background="{StaticResource PhoneAccentBrush}"
+                                                      Foreground="White" BorderBrush="White"
+                                                      ImageSource="/img/appbar.settings.png"
+                                                      Tap="ButtonSettings_Tap">
+                                    <Code4Fun:RoundButton.RenderTransform>
+                                        <ScaleTransform ScaleX="1.0" ScaleY="1.0" />
+                                    </Code4Fun:RoundButton.RenderTransform>
+                                </Code4Fun:RoundButton>
+                                <Code4Fun:RoundButton Name="ButtonAbout" Background="{StaticResource PhoneAccentBrush}"
+                                                      Foreground="White" BorderBrush="White"
+                                                      ImageSource="/img/appbar.about.png"
+                                                      Tap="ButtonAbout_Tap">
+                                    <Code4Fun:RoundButton.RenderTransform>
+                                        <ScaleTransform ScaleX="1.0" ScaleY="1.0" />
+                                    </Code4Fun:RoundButton.RenderTransform>
+                                </Code4Fun:RoundButton>
+                            </StackPanel>
+                        </Grid>
+                    </ScrollViewer>
+                </phone:PanoramaItem>
+
+                <phone:PanoramaItem>
+                    <ScrollViewer Margin="0,0,-20,0">
+                        <StackPanel>
+                            <Grid x:Name="Layout_2" Margin="10, 15, 0, 0" Opacity="0.8" Background="Transparent">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="173"/>
+                                    <RowDefinition Height="10"/>
+                                    <RowDefinition Height="173"/>
+                                    <RowDefinition Height="10"/>
+                                    <RowDefinition Height="173"/>
+                                    <RowDefinition Height="10"/>
+                                    <RowDefinition Height="173"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="173"/>
+                                    <ColumnDefinition Width="10"/>
+                                    <ColumnDefinition Width="173"/>
+                                </Grid.ColumnDefinitions>
+                                <Code4Fun:Tile Name="tile_lock" Title="锁屏界面"  Grid.Row="0" Grid.Column="0" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                    <Image Source="/HelloWorld;component/img/link_win8.png" Stretch="Uniform"></Image>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_lock" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_lock" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:Tile>
+
+                                <Code4Fun:Tile Name="tile_account" Title="电子邮件+账户"  Grid.Row="0" Grid.Column="2" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                    <Image Source="/HelloWorld;component/img/microsoft.png" Stretch="Uniform"></Image>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_account" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_account" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:Tile>
+
+                                <Code4Fun:Tile Name="tile_restart" Title="重启" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3"
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                        <Image Source="/HelloWorld;component/img/restart.png" Stretch="Uniform" ></Image>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_restart" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_restart" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:Tile>
+                                <Code4Fun:Tile Name="tile_stopmusic" Title="停止音乐"  Grid.Row="4" Grid.Column="0" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                    <Image Source="/HelloWorld;component/img/stop.png" Stretch="Uniform"></Image>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_stopmusic" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_stopmusic" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:Tile>
+                                <Code4Fun:Tile Name="tile_wallet" Title="电子钱包"  Grid.Row="4" Grid.Column="2" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                    <Image Source="/HelloWorld;component/img/wallet.png" Stretch="Uniform"></Image>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_wallet" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_wallet" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:Tile>
+
+                                <Code4Fun:Tile Name="tile_flashlight" Title="手电筒"  Grid.Row="6" Grid.Column="0"
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                    <Image Source="/HelloWorld;component/img/flashlight.png" Stretch="Uniform" HorizontalAlignment="Right" Width="173" ></Image>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_flashlight" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_flashlight" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:Tile>
+                                <Code4Fun:Tile Name="tile_stopwatch" Title="秒表"  Grid.Row="6" Grid.Column="2" 
+                                           Foreground="White"
+                                           ManipulationStarted="tile_ManipulationStarted"
+                                           ManipulationCompleted="tile_ManipulationCompleted"
+                                           Tap="TileLink_Tap" Hold="tile_Hold">
+                                    <Image Source="/HelloWorld;component/img/stopwatch.png" Stretch="Uniform" HorizontalAlignment="Right" Width="173" ></Image>
+                                    <toolkit:ContextMenuService.ContextMenu>
+                                        <toolkit:ContextMenu Name="ContextMenu_stopwatch" IsZoomEnabled="True">
+                                            <toolkit:MenuItem Header="固定到开始屏幕" Name="MenuItem_stopwatch" Click="ContextMenu_Click" />
+                                        </toolkit:ContextMenu>
+                                    </toolkit:ContextMenuService.ContextMenu>
+                                </Code4Fun:Tile>
+                            </Grid>
+                            <MediaElement Name="myMedia" Opacity="0" Height="0" Width="0" IsHitTestVisible="False"/>
+                        </StackPanel>
+                    </ScrollViewer>
+                </phone:PanoramaItem>
+            </phone:Panorama>
+        </Grid>
+    </Grid>
+
+    <!--TitlePanel 包含应用程序的名称和页标题-->
+
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="按钮 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="按钮 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="菜单项 1"/>
+                <shell:ApplicationBarMenuItem Text="菜单项 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+</phone:PhoneApplicationPage>
