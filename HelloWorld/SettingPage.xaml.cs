@@ -1,7 +1,3 @@
-﻿/*
- * 原作者: 李杰
- * 
- */
 using System.Windows;
 using System.Windows.Threading;
 using Microsoft.Phone.Controls;
