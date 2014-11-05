@@ -1,7 +1,5 @@
 ﻿/**
- * 作者：李杰
  * 日期：2012.12.5
- * 内容：格式限定方法封装。包括IP、端口号、MqttID、电表地址、气表地址、气表初始值
  * */
 using System.Windows;
 using System.Collections.Generic;
