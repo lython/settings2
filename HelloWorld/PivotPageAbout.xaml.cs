@@ -31,7 +31,7 @@ namespace HelloWorld
             //发送电子邮件
             EmailComposeTask task = new EmailComposeTask
             {
-                To = "lython@outlook.com",
+                To = "lython@live.cn",
                 Subject = String.Format("[Lython]设置²{0}", Application.Current.Resources["appVersion"]),
                 Body = String.Format("\n\n\n生产厂商：{0}\n手机型号：{1}\nOS版本：{2}", manufacturer, name, OSVersion),
             };
